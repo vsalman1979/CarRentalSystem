@@ -27,6 +27,7 @@ def main():
         print("                              4. Customer feedbacks")
         print("                              5. Admin Login(office use only)")
         print("                              6. Exit")
+        print("                              6. Help")
         choice = input("\nChoose an option: ")
 
         if choice == '1':
